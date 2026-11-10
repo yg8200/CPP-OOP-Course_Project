@@ -1,0 +1,24 @@
+                  ========================================
+                            GAME INSTRUCTIONS
+                  ========================================
+
+                 OBJECTIVE:
+                   Control two players working together to navigate through
+                   rooms, solve puzzles, and reach the final room.
+
+                 CONTROLS:
+                   Player 1 ($):          Player 2 (&):
+                  W - Move Up            I - Move Up
+                  A - Move Left          J - Move Left
+                  S - Stay               K - Stay
+                  D - Move Right         L - Move Right
+                  X - Move Down          M - Move Down
+                  E - Dispose Element    O - Dispose Element
+
+                 SPECIAL KEYS:
+                  ESC - Pause game
+
+
+
+       Page 1 of 3
+       Use LEFT/RIGHT arrows to navigate, ESC to return to menu

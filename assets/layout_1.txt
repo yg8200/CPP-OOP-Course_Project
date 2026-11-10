@@ -1,0 +1,30 @@
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW3WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+W         W     *  WWW                           W            W      ***    ###W
+W   $     W* **  / WWW    B                      W     K      W   /  W W-W     W
+W            * **  WWW                           W            W      W W&W     W
+WWWWWWWW?WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW-WWWWWWWWWWW
+W                  WWWWWWWBWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWWWWWWW                W
+W                  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                W
+W                  WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW                W
+WWWWWWWWW-WWWWWWWWWWWWWWW                                     W                W
+W####       ****   WWWWWW   B                           B     W                W
+WWWWWWWWW5WWWW WWWW WWWWW                                     7            K   W
+W            W W     WWWWWWW-WWWW                             W                W
+W            WKW   * BWWW       W                            W                 W
+W            WWWWWW*WWWWW       W                             WWWWWWWW?WWWWWWWWW
+W                     WW        W                             W                W
+WWWWW?WWWWWW          WW        W                WWWWWWW      W                W
+W          W       #  WW        W                WWWWWWW      W   /            W
+W    /     W       #  WW   /    W                W  K  W      W                W
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+S0266 T0809
+S1727 T0468     
+S1666 T1128
+S0217 T0272
+S1705 T0468
+K1752 D1062
+K1214 D1009
+K1075 D0041
+K0255 D0041
+D0041 D0101
+L2100 L2100

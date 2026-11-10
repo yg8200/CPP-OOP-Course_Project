@@ -1,0 +1,5 @@
+build/
+adventure_game
+adv-world.*
+.DS_Store
+*.dSYM/

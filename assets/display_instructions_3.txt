@@ -1,0 +1,24 @@
+	          ========================================
+                            TIPS & STRATEGY
+                  ========================================
+
+		* Players must work together - coordinate their movements
+
+		* Each player can carry one item at a time
+
+		* Explosion costs 3 lives and respawns you at start position 
+
+		* Switches may control doors - experiment to find connections
+
+		* Springs launch you - use them to cross gaps or move fast
+	
+		* Obstacles can be pushed if you have enough force
+
+		* Bombs explode after 5 cycles - plan your escape!
+
+		* Some areas may be dark - find torches to see
+
+		* Wrong riddle answers may cost you lives or points
+
+       Page 3 of 3
+       Use LEFT/RIGHT arrows to navigate, ESC to return to menu

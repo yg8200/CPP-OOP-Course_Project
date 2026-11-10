@@ -1,0 +1,10 @@
+For steps:
+
+first line is the random seed
+second line is the number of steps
+rest of lines are a pair of iteration number and the step taken
+
+For Results:
+
+each line represents an event with 3 parameters: iteration, event_type, event specific parameter (if needed) 
+for example: if a bomb explodes then it will be iteration, BOMB_HIT (1 in the enum) , and the specific parameter will indicate how many players were hit.

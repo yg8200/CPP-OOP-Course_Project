@@ -1,0 +1,24 @@
+	          ========================================
+                            GAME ELEMENTS
+                  ========================================
+
+	        W   - Wall (blocks movement)
+
+	        *   - Obstacle (can be pushed if you have enough force)
+
+	        #   - Spring (compresses and launches you)
+
+	        /\ - Switch (toggles ON/OFF when stepped on)
+
+	        K   - Key (opens specific doors)
+
+	        1-9 - Door (requires keys and/or switches to open)
+
+	        ?   - Riddle (answer correctly to pass)
+
+	        B   - Bomb (destroys nearby objects when activated)
+
+	        !   - Torch (illuminates dark areas)
+
+       Page 2 of 3
+       Use LEFT/RIGHT arrows to navigate, ESC to return to menu
